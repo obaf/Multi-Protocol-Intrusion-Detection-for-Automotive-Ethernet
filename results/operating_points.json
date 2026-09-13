@@ -1,0 +1,57 @@
+{
+  "tow_binary_XGB": {
+    "recall_99": 0.05701,
+    "recall_95": 0.055569,
+    "recall_90": 0.055557
+  },
+  "tow_binary_LGBM": {
+    "recall_99": 0.071401,
+    "recall_95": 0.063913,
+    "recall_90": 0.063913
+  },
+  "tow_binary_VoteEns": {
+    "recall_99": 0.055108,
+    "recall_95": 0.027619,
+    "recall_90": 0.017604
+  },
+  "tow_binary_StackEns": {
+    "recall_99": 0.089908,
+    "recall_95": 0.039404,
+    "recall_90": 0.026358
+  },
+  "tow_binary_RF": {
+    "recall_99": 0.061712,
+    "recall_95": 0.020648,
+    "recall_90": 0.007549
+  },
+  "tow_binary_MLP": {
+    "recall_99": 0.861419,
+    "recall_95": 0.81414,
+    "recall_90": 0.775764
+  },
+  "someip_binary_XGB": {
+    "recall_99": 0.979121,
+    "recall_95": 0.920367,
+    "recall_90": 0.855912
+  },
+  "someip_binary_LGBM": {
+    "recall_99": 0.978906,
+    "recall_95": 0.918355,
+    "recall_90": 0.85544
+  },
+  "someip_binary_VoteEns": {
+    "recall_99": 0.979724,
+    "recall_95": 0.92225,
+    "recall_90": 0.860053
+  },
+  "someip_binary_StackEns": {
+    "recall_99": 0.982025,
+    "recall_95": 0.927069,
+    "recall_90": 0.867207
+  },
+  "someip_binary_MLP": {
+    "recall_99": 0.988459,
+    "recall_95": 0.941279,
+    "recall_90": 0.884147
+  }
+}

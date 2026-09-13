@@ -1,0 +1,177 @@
+{
+  "XGB": {
+    "model": "XGB",
+    "segments": 92409,
+    "detected": 57203,
+    "seg_detection_rate": 0.619,
+    "median_latency_packets": 0.0,
+    "median_latency_ms": 0.0,
+    "per_class": {
+      "F_I": {
+        "segments": 3449,
+        "detected": 522,
+        "median_latency_s": null
+      },
+      "P_I": {
+        "segments": 20795,
+        "detected": 20795,
+        "median_latency_s": null
+      },
+      "M_F": {
+        "segments": 14104,
+        "detected": 14104,
+        "median_latency_s": null
+      },
+      "C_D": {
+        "segments": 27843,
+        "detected": 0,
+        "median_latency_s": null
+      },
+      "C_R": {
+        "segments": 26218,
+        "detected": 21782,
+        "median_latency_s": null
+      }
+    }
+  },
+  "LGBM": {
+    "model": "LGBM",
+    "segments": 92409,
+    "detected": 56825,
+    "seg_detection_rate": 0.6149,
+    "median_latency_packets": 0.0,
+    "median_latency_ms": 0.0,
+    "per_class": {
+      "F_I": {
+        "segments": 3449,
+        "detected": 301,
+        "median_latency_s": null
+      },
+      "P_I": {
+        "segments": 20795,
+        "detected": 20793,
+        "median_latency_s": null
+      },
+      "M_F": {
+        "segments": 14104,
+        "detected": 14104,
+        "median_latency_s": null
+      },
+      "C_D": {
+        "segments": 27843,
+        "detected": 0,
+        "median_latency_s": null
+      },
+      "C_R": {
+        "segments": 26218,
+        "detected": 21627,
+        "median_latency_s": null
+      }
+    }
+  },
+  "VoteEns": {
+    "model": "VoteEns",
+    "segments": 92409,
+    "detected": 56980,
+    "seg_detection_rate": 0.6166,
+    "median_latency_packets": 0.0,
+    "median_latency_ms": 0.0,
+    "per_class": {
+      "F_I": {
+        "segments": 3449,
+        "detected": 489,
+        "median_latency_s": null
+      },
+      "P_I": {
+        "segments": 20795,
+        "detected": 20795,
+        "median_latency_s": null
+      },
+      "M_F": {
+        "segments": 14104,
+        "detected": 14104,
+        "median_latency_s": null
+      },
+      "C_D": {
+        "segments": 27843,
+        "detected": 0,
+        "median_latency_s": null
+      },
+      "C_R": {
+        "segments": 26218,
+        "detected": 21592,
+        "median_latency_s": null
+      }
+    }
+  },
+  "StackEns": {
+    "model": "StackEns",
+    "segments": 92409,
+    "detected": 83932,
+    "seg_detection_rate": 0.9083,
+    "median_latency_packets": 0.0,
+    "median_latency_ms": 0.0,
+    "per_class": {
+      "F_I": {
+        "segments": 3449,
+        "detected": 497,
+        "median_latency_s": null
+      },
+      "P_I": {
+        "segments": 20795,
+        "detected": 20795,
+        "median_latency_s": null
+      },
+      "M_F": {
+        "segments": 14104,
+        "detected": 14104,
+        "median_latency_s": null
+      },
+      "C_D": {
+        "segments": 27843,
+        "detected": 27843,
+        "median_latency_s": null
+      },
+      "C_R": {
+        "segments": 26218,
+        "detected": 20693,
+        "median_latency_s": null
+      }
+    }
+  },
+  "MLP": {
+    "model": "MLP",
+    "segments": 92409,
+    "detected": 64513,
+    "seg_detection_rate": 0.6981,
+    "median_latency_packets": 0.0,
+    "median_latency_ms": 0.0,
+    "per_class": {
+      "F_I": {
+        "segments": 3449,
+        "detected": 3442,
+        "median_latency_s": null
+      },
+      "P_I": {
+        "segments": 20795,
+        "detected": 20793,
+        "median_latency_s": null
+      },
+      "M_F": {
+        "segments": 14104,
+        "detected": 14104,
+        "median_latency_s": null
+      },
+      "C_D": {
+        "segments": 27843,
+        "detected": 0,
+        "median_latency_s": null
+      },
+      "C_R": {
+        "segments": 26218,
+        "detected": 26174,
+        "median_latency_s": null
+      }
+    }
+  }
+}
